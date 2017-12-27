@@ -10,4 +10,4 @@ dependencies {
    testCompile 'junit:junit:4.12'         // JUnit dependency for testing
 }
 
-mainClassName = 'com.boraji.tutorial.MainApp'  // Main class with main method
+mainClassName = 'com.MainApp'  // Main class with main method
